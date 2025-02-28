@@ -1,4 +1,5 @@
-
+Detailed Explanation of the TSSM Model with Fractal Wave Angles
+https://x.com/dcharb10/status/1895313071385780547 -- If you wannt to see how this works. All articles as i built and theorized are here.
 File tssm-scaled-max.py will iterate through the fractal crystal lattice. max that the system can supposedly handle. Will reimplement in rust.  So i can use more cores.
 TSSMWave.Scaled.py - More performant Version
 This Python code includes:
