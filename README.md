@@ -1,5 +1,6 @@
-File tssm-scaled-max.py will iterate through the fractal crystal lattice. max that the system can supposedly handle. Will reimplement in rust.  So i can use more cores.
 
+File tssm-scaled-max.py will iterate through the fractal crystal lattice. max that the system can supposedly handle. Will reimplement in rust.  So i can use more cores.
+TSSMWave.Scaled.py - More performant Version
 This Python code includes:
 
 TSSM Wave Formula Implementation: The full optimized formula with all components.
